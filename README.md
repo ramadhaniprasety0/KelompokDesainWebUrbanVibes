@@ -1,6 +1,6 @@
 # UrbanVibe - Kelompok 3
 
-![UrbanVibe Logo](sourse/logo_urban.png)
+![UrbanVibe Logo](sourses/logo_urban.png)
 
 Selamat datang di UrbanVibe, layanan sablon pakaian terkemuka dengan desain yang inovatif dan tren terkini! Kami adalah pilihan terbaik untuk memenuhi kebutuhan pakaian Anda. Berikut adalah beberapa informasi penting mengenai website UrbanVibe:
 
