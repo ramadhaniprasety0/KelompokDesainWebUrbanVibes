@@ -41,4 +41,5 @@ Menu navigasi kami dirancang untuk kenyamanan pengguna. Semua submenu terhubung 
 ### Footer
 © 2023 UrbanVibe. All rights reserved.
 
-Terima kasih telah mengunjungi UrbanVibe! Untuk pertanyaan lebih lanjut atau untuk memulai pemesanan, silakan hubungi kami di [kontak@urbanvibe.com](mailto:kontak@urbanvibe.com).
+# My Design Figma
+[Klik Untuk Melihat Design Figma ( Hanya dapat View )](https://www.figma.com/file/yBJwSosNSfi5r4U5TnMAwr/SIM-(-Finance%2C-E-Wallet%2C-%26-Online-Payment-App-)?type=design&node-id=301%3A4618&mode=design&t=7lBFyV9tIISMb8jV-1)
