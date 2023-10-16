@@ -54,7 +54,7 @@ Menu navigasi kami dirancang untuk kenyamanan pengguna. Semua submenu terhubung 
 [Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/SgvsP9F7rxxaxCPj22p2Bl/DesainMockupDekstop?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
 
 # My Design Figma Tablet
-[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/fljks6oltagDx1dNdw2Vxc/DesaiMockupTablet?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
+[Klik Untuk Melihat Design Figma Tablet ( Hanya dapat View )](https://www.figma.com/file/fljks6oltagDx1dNdw2Vxc/DesaiMockupTablet?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
 
 # My Design Figma Mobile
-[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/nGciwYyMSOwaXpKnXDBTcF/DesainMockupMobile?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
+[Klik Untuk Melihat Design Figma Mobile ( Hanya dapat View )](https://www.figma.com/file/nGciwYyMSOwaXpKnXDBTcF/DesainMockupMobile?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
