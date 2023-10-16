@@ -1,6 +1,15 @@
 # UrbanVibe - Kelompok 3
 
+![UrbanVibe Logo](sourse/logo_urban.png)
+
 Selamat datang di UrbanVibe, layanan sablon pakaian terkemuka dengan desain yang inovatif dan tren terkini! Kami adalah pilihan terbaik untuk memenuhi kebutuhan pakaian Anda. Berikut adalah beberapa informasi penting mengenai website UrbanVibe:
+
+## Nama Anggota Kelompok 
+- Deni Saputra - 4522210007
+- Ramadhani Prasetyo - 4522210009
+- Afandi Ikhsyan Al Karim  - 4522210032
+- Farah Tri Mahardini - 4522210042
+- Irma Erpiana - 4522210051
 
 ## 1. Struktur Website
 
