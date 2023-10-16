@@ -41,5 +41,11 @@ Menu navigasi kami dirancang untuk kenyamanan pengguna. Semua submenu terhubung 
 ### Footer
 © 2023 UrbanVibe. All rights reserved.
 
-# My Design Figma
-[Klik Untuk Melihat Design Figma ( Hanya dapat View )](https://www.figma.com/file/yBJwSosNSfi5r4U5TnMAwr/SIM-(-Finance%2C-E-Wallet%2C-%26-Online-Payment-App-)?type=design&node-id=301%3A4618&mode=design&t=7lBFyV9tIISMb8jV-1)
+# My Design Figma Dekstop
+[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/SgvsP9F7rxxaxCPj22p2Bl/DesainMockupDekstop?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
+
+# My Design Figma Tablet
+[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/fljks6oltagDx1dNdw2Vxc/DesaiMockupTablet?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
+
+# My Design Figma Mobile
+[Klik Untuk Melihat Design Figma Dekstop ( Hanya dapat View )](https://www.figma.com/file/nGciwYyMSOwaXpKnXDBTcF/DesainMockupMobile?type=design&mode=design&t=RzpAzgb5Wxyha4pQ-1)
