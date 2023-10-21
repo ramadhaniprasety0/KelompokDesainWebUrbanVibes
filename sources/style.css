@@ -1,12 +1,12 @@
-
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 body {
   font-family: Arial, sans-serif;
+  background-color: #6a8f89;
 }
 
 header {
@@ -216,6 +216,7 @@ h3 {
 
 .testi-content h4 {
   margin-top: 40px;
+  color: #8a8686;
   text-align: justify;
 }
 
@@ -262,134 +263,38 @@ h3 {
   fill: #ffff;
 }
 
-footer {
-  padding: 50px;
-  text-align: center;
-  height: 100px;
-  color: #ffff;
-  background-color: #466e67;
-}
-
-.main-content-order{
+.main-content-order {
   width: 100%;
   background-color: #6a8f89;
 }
 
-.wrap-content{
+.wrap-content {
   background-color: #394867;
   height: 180px;
   opacity: 0.4;
 }
 
-.wrap-content h1{
+.wrap-content h1 {
   position: absolute;
   margin-top: 130px;
   margin-left: 30px;
   color: #ffff;
 }
 
-.head-content-order{
+.head-content-order {
   background-image: url("./cover2.png");
   height: 180px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.cara_order{
-  height: auto;
-  padding: 20px;
-  color: #ffff;
+/* FOOTER */
+
+footer {
+  padding: 40px;
   text-align: center;
-  /* background-color: #466e67; */
-}
-
-.wrap_order{
-  margin-top: 30px;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.content_cara_order{
-  width: 280px;
-  height: 300px;
-  background-color: #ffff;
-  border-radius: 10px;
-  margin: 10px;
-  padding: 20px;
-  color: black;
-}
-
-.content_cara_order img{
-  height: 100px;
-  padding: 10px;
-}
-
-.content_cara_order h4{
-  margin: 10px;
-  color: #8A8686;
-}
-
-.contoh_katalog{
-  /* background-color: #466e67; */
   color: #ffff;
-  text-align: center;
-}
-
-.wrap_katalog{
-  margin-top: 30px;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.content_katalog{
-  width: 305px;
-  height: 305;
-  padding: 10px;
-  border-radius: 10px;
-  background-color: #ffff;
-  
-}
-
-.content_katalog img{
-  margin-top: 5px;
-}
-
-.content_promosi{
-  margin-top: 30px;
-  display: flex;
-  gap: 80px;
-  /* padding: 10px; */
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 300px;
-  padding: 10px;
   background-color: #466e67;
-}
-
-.text_promosi h2{
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 8px;
-  color: #ffff;
-}
-
-.text_promosi a{
-  margin-left: 60%;
-  background-color: #6a8f89;
-  text-decoration: none;
-  padding: 5px 10px;
-  border-radius: 8px;
-  font-weight: bold;
-  color: #ffff;
-}
-
-.content_promosi img{
-  width: 280px;
-  height: 260px;
 }
 
 @media screen and (max-width: 1300px) {
